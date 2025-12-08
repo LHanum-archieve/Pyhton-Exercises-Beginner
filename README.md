@@ -1,2 +1,19 @@
 # Pyhton Exercises (Beginner)
-Halo !! Repository ini menyimpan code python hasil belajar saya di awal perkuliahan. Materi pembelajaran merujuk pada channel youtube https://www.youtube.com/@KelasTerbuka.
+Halo! Repository ini berisi kumpulan latihan Python yang saya catat sebagai bagian dari proses pembelajaran dasar pemrograman. Seluruh kode di dalam repository ini merupakan dokumentasi perkembangan kemampuan saya dalam memahami konsep-konsep fundamental Python. Materi pembelajaran utama merujuk pada kanal YouTube Kelas Terbuka: https://www.youtube.com/@KelasTerbuka.
+
+## Tujuan
+Repository ini dibuat dengan tujuan:
+- Mendokumentasikan proses belajar Python secara sistematis
+- Menyediakan catatan yang dapat ditinjau kembali di kemudian hari
+- Memonitor perkembangan keterampilan pemrograman dari waktu ke waktu
+- Menjadi referensi sederhana bagi siapa pun yang sedang mempelajari dasar-dasar Python
+- 
+## Cara Menjalankan Program
+1. Clone repository
+   git clone <URL-repository>
+2. Masuk ke direktori repository
+   cd nama-folder-repository
+3. Jalankan berkas Python yang diinginkan
+   python3 nama_file.py
+Seluruh latihan menggunakan modul bawaan Python dan tidak memerlukan dependensi tambahan.
+
